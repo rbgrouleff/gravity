@@ -1,0 +1,8 @@
+{
+  "name": "gravity_server",
+  "version": "0.0.1-dev",
+  "dependencies": {
+    "express": "2.5.8",
+    "hercules": "0.0.6"
+  }
+}
