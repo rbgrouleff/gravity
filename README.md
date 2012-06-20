@@ -10,9 +10,9 @@ Internet Explorer >=10.0.
 It is heavily inspired from http://www.arachnoid.com/ruby/gravity/index.html -
 which is also where I have the planetary data from.
 
-If you want to run it, just clone this repo, run `npm install` in the
-dir, run the server with `coffee server` and point your browser to
-http://localhost:3000/index.html
+If you want to run it, just clone this repo, run `bundle install` in the
+dir, run the server with `rackup` and point your browser to
+http://localhost:9292/
 
 #License
 
